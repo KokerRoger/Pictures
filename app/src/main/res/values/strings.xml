@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pictures</string>
+    <string name="tank1">It is your tank?</string>
+    <string name="tank1ans1">may be yes</string>
+    <string name="tank1ans2">may be not</string>
+    <string name="tank2">Maybe it is your tank?</string>
+    <string name="tank2ans1">Absolutely</string>
+    <string name="tank2ans2">Get out of there!!!</string>
+    <string name="stalin">Be careful,bro!!!</string>
+    <string name="nevsk">Vot tak vot!</string>
+    <string name="title_activity_activ1">activ1</string>
+    <string name="title_activity_activ2">activ2</string>
+    <string name="title_activity_activ3">activ3</string>
+</resources>
